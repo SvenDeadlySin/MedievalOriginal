@@ -14,7 +14,7 @@ int main() {
 	int personAge; 
 	
 	// adding in strings
-	std::string personGender1;
+
 	
 	// getting gender information from the user 
 	std::cout << "What gender did you inherit at birth, Masked Mage? (M/F): ";
